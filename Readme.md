@@ -1,4 +1,4 @@
-# started on (5th July 2023) deadline (5th September 2023) (60 days)
+# started on (5th June 2023) deadline (5th August 2023) (60 days)
 
 StriversSheetChallenge Solutions
 ================================
